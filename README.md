@@ -286,7 +286,7 @@ Its main features include:
 
 The firmware uses the `Wire`, `LiquidCrystal_I2C`, `Servo`, `EEPROM`, and `Adafruit_MLX90614` libraries.
 
-**Firmware:** [code.ino](firmware/code.ino)
+**Firmware:** [code.ino](code.ino)
 
 <br>
 
